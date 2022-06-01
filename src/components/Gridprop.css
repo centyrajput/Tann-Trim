@@ -1,0 +1,55 @@
+.g {
+  height: max-content;
+  width: 300px;
+  /* border: 1px solid #fff; */
+  border-radius: 5px;
+  margin: 30px 10px;
+}
+
+.g1 {
+  height: 400px;
+  width: 100%;
+  /* border: 1px solid red; */
+}
+
+.g1 img {
+  height: 100%;
+  width: 100%;
+}
+
+.g2 {
+  height: max-content;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 30px 0px 0px 0px;
+}
+
+.g h1 {
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.g2 p {
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.g2 .p2 {
+  color: white;
+  font-size: 15px;
+}
+
+.g2 .p3 {
+  color: lightgreen;
+  font-size: 15px;
+}
+
+.g2 .gicon {
+  font-size: 20px;
+  color: white;
+}
